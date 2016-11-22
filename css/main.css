@@ -1,0 +1,31 @@
+
+
+.bg-cover {
+	background: url(../img/bruce.jpg);
+	height: 300px;
+	background-size: cover;
+}
+
+.my-sidebar {
+	margin-top: 20px;
+}
+
+.my-topnav {
+	background-color: #29263f;
+	height: 65px;
+	font-family: garamond;
+	font-size: large;
+
+}
+
+.slider-top {
+	margin-top: -20px;
+}
+
+.navbar-brand img {
+	max-height: 45px;
+}
+
+.home-slider {
+	max-height: 1600px;
+}
